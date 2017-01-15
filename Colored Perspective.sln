@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colored Perspective.CSharp.Plugins", "Colored Perspective.CSharp.Plugins.csproj", "{9C0621D1-C18F-C481-2144-0C40654D1621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colored Perspective.CSharp", "Colored Perspective.CSharp.csproj", "{2183DEEB-9CD3-79EB-D25A-C24E84056AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colored Perspective.CSharp.Editor", "Colored Perspective.CSharp.Editor.csproj", "{0FA8A285-2906-23FB-C1C1-8AE125E8BF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0621D1-C18F-C481-2144-0C40654D1621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0621D1-C18F-C481-2144-0C40654D1621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0621D1-C18F-C481-2144-0C40654D1621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0621D1-C18F-C481-2144-0C40654D1621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2183DEEB-9CD3-79EB-D25A-C24E84056AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2183DEEB-9CD3-79EB-D25A-C24E84056AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2183DEEB-9CD3-79EB-D25A-C24E84056AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2183DEEB-9CD3-79EB-D25A-C24E84056AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA8A285-2906-23FB-C1C1-8AE125E8BF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA8A285-2906-23FB-C1C1-8AE125E8BF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA8A285-2906-23FB-C1C1-8AE125E8BF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA8A285-2906-23FB-C1C1-8AE125E8BF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
